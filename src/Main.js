@@ -1,5 +1,5 @@
 import React from 'react';
-import HornedBeasts from './HornedBeasts';
+import HornedBeasts from './HornedBeasts.js';
 
 
 class Main extends React.Component {
@@ -10,7 +10,6 @@ class Main extends React.Component {
                 <HornedBeasts />
             </div>
         );
-
     }
 }
 
